@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello, je suis Alexandre ARTUS 👋
 
-<!--
-**alexarts74/alexarts74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Qui suis-je ? 🙌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Après une licence en marketing et un master en communication, je me suis inscrit au bootcamp Le Wagon pour continuer mon apprentissage dans un secteur qui m'avait toujours intrigué. Plus aucun doute c'est developpeur web mon futur métier !
+
+Un peu plus de détails :
+
+💻 - Apprentissage de Ruby on Rails et Python ! 
+
+✉️ - Vous souhaitez me contacter ? Mon email : artusalexandre@yahoo.fr
+ 
+
