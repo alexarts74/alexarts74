@@ -9,6 +9,6 @@ Un peu plus de détails :
 
 💻 - Apprentissage de Ruby on Rails et Python ! 
 
-✉️ - Vous souhaitez me contacter ? Mon email : artusalexandre@yahoo.fr
+✉️ - Vous souhaitez me contacter ? Mon email : artusalexandre74@gmail.com
  
 
