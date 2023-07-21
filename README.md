@@ -7,7 +7,7 @@ Après une licence en marketing et un master en communication, je me suis inscri
 
 Un peu plus de détails :
 
-💻 - Apprentissage de Ruby on Rails et Python ! 
+💻 - Apprentissage de Ruby on Rails et Python et Javascript! 
 
 ✉️ - Vous souhaitez me contacter ? Mon email : artusalexandre74@gmail.com
  
