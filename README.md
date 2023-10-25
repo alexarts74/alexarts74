@@ -1,4 +1,4 @@
-Hello, je suis Alexandre ARTUS 👋
+Hello, moi c'est Alexandre👋
 
 
 Qui suis-je ? 🙌
