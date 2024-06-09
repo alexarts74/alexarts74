@@ -7,7 +7,7 @@ Après une licence en marketing et un master en communication, je me suis inscri
 Je réalise actuellement un stage en tant que développeur full stack au sein de WorkAdventure.
 Plus aucun doute c'est developpeur web mon futur métier !
 
-Je vous laisse jeter un coup d'oeil à mon portfolio : https://alexandre-web-portfolio.netlify.app/
+Je vous laisse jeter un coup d'oeil à mon portfolio : 🛠️
 
 Un peu plus de détails :
 
