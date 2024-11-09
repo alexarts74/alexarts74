@@ -11,7 +11,7 @@ Je vous laisse jeter un coup d'oeil à mon portfolio : https://alexarts74.github
 
 Un peu plus de détails :
 
-💻 - Apprentissage de TypeScript, Svelte, React, HTML et CSS! 
+💻 - Apprentissage de TypeScript, Svelte, React, Ruby, Tailwind! 
 
 ✉️ - Vous souhaitez me contacter ? Mon email : artusalexandre74@gmail.com
  
