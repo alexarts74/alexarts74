@@ -3,7 +3,7 @@ Hello, moi c'est Alexandre👋
 
 Qui suis-je ? 🙌
 
-Après une licence en marketing et un master en communication, et une réorientation grâce à une formation bootcamp je me lance dans le développement web ! 
+Après une licence en marketing, un master en communication et une réorientation grâce à une formation bootcamp, je me lance dans le développement web ! 
 
 Après un stage dans une première start up tech (Big up WorkAdventure), je réalise actuellement un second stage en tant que développeur full stack au sein de Bib Batteries.
 Plus aucun doute c'est developpeur web mon métier !
