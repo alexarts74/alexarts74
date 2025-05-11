@@ -8,7 +8,7 @@ Après une licence en marketing, un master en communication et une réorientatio
 Après un stage dans une première start up tech (Big up WorkAdventure), je réalise actuellement un second stage en tant que développeur full stack au sein de Bib Batteries.
 Plus aucun doute c'est developpeur web mon métier !
 
-Je vous laisse jeter un coup d'oeil à mon portfolio : https://alexarts74.github.io/portfolio/
+Je vous laisse jeter un coup d'oeil à mon portfolio : https://alexandre-portfolio.framer.website/
 
 Un peu plus de détails :
 
