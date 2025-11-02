@@ -11,7 +11,7 @@ Je vous laisse jeter un coup d'oeil à mon portfolio : https://alexandre-portfol
 
 Un peu plus de détails :
 
-💻 - Apprentissage de TypeScript, NextJS, Svelte, React, Ruby, Tailwind! 
+💻 - Apprentissage de TypeScript, NextJS, Svelte, React, Ruby, Python, Tailwind ! 
 
 ✉️ - Vous souhaitez me contacter ? Mon email : artusalexandre74@gmail.com
  
